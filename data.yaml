@@ -1,0 +1,6 @@
+train: C:/Users/lalo1/Desktop/hidroplantIA/Data/train/images
+val: C:/Users/lalo1/Desktop/hidroplantIA/Data/valid/images
+test: 
+
+nc: 5
+names: ['Arana Roja', 'Mosca Blanca', 'Mosca de Fruta', 'Picudo Rojo', 'Pulgon Verde']
